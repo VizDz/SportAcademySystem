@@ -1,0 +1,14 @@
+CC606	b12	Swimming	Good	5
+CC101	b12	Swimming	Good	5
+CC101	b12	Swimming	Good	5
+CC101	b12	Swimming	Good	5
+CC101	b12	Swimming	Good	4
+CC101	b12	Swimming	Good	4
+CC606	b12	Swimming	Nice	4
+CC606	b12	Swimming	Yay	4
+CC303	b12	Badminton	Nice	5
+CC404	b12	Swimming	nice job	5
+CC606	k12	Table Tennis	Good Teaching Skills	4
+CC505	Kevin120	Archery	Nice	5
+CC404	Budianto	Swimming	Very Good	4
+CC177	k12	Football	Nice 	4

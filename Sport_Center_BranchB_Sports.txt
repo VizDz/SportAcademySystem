@@ -1,0 +1,4 @@
+SP111	Basketball	RM300	LC2	Branch B
+SP222	Badminton	RM300	LC2	Branch B
+SP888	Archery	RM400	LC2	Branch B
+SP444	Tennis	RM300	LC2	Branch B

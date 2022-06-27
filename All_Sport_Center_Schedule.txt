@@ -1,0 +1,9 @@
+DL100	CC101	Baron	Badminton	LC3	Branch C	12/12/12:10:00-11:00
+DL101	CC101	Baron	Badminton	LC3	Branch C	12/12/20/16:00 -18:00
+DL102	CC404	Kesslyn	Swimming	LC2	Branch B	15/12/19/17:00 - 18:00
+DL103	CC303	Liliy	Badminton	LC2	Branch B	14/10/16/18:00 - 19:00
+DL104	CC606	ILLys	Table Tennis	LC1	Branch A	12/12/20/06:00 - 10:00
+DL105	CC202	Coni	Volleyball	LC3	Branch C	12/12/15/16:00 - 17:00
+DL106	CC202	Coni	Volleyball	LC3	Branch C	12/12/19/15:00 - 17:00
+DL107	CC505	Yans	Archery	LC1	Branch A	12/12/15/16:00 - 18:00
+DL109	CC606	ILLys	Table Tennis	LC1	Branch A	12/12/15/16:00 - 17:00
